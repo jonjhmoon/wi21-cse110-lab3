@@ -2,8 +2,12 @@ body {
   color: green;
 }
 
-h1 {
-  color: #000;
+h2 {
+  color: #3a4d2;
   margin-left: 20px;
   background-color: coral;
+}
+
+main {
+  
 }
