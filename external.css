@@ -14,12 +14,13 @@
 }
 
 h1 {
-  margin: 70px;
+  margin-top: 70px;
   border: 1px solid #4CAF50;
   font-size: 1.5cm;
 }
 
 span {
+  margin: 25px;
   font-size: 0.5em;
 }
 
@@ -29,6 +30,7 @@ span {
 }
 
 .theDivide {
+  margin: auto;
   font-size: 1cm;
 }
 
