@@ -28,7 +28,8 @@ span {
 
 .mainHeader {
   font-size: .2ex;
-  padding-bottom: 50px
+  padding-bottom: 50px;
+  text-decoration: overline;
 }
 
 .theDivide {
@@ -48,4 +49,5 @@ a:link {
 p.intro {
   font-size: .5em;
   background-color: yellow;
+  text-align: justify;
 }
