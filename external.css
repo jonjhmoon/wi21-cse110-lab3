@@ -26,12 +26,13 @@ span {
 
 .mainHeader {
   font-size: .2ex;
-  
+  padding-bottom: 50px
 }
 
 .theDivide {
   margin: auto;
   font-size: 1cm;
+  padding: 25px;
 }
 
 a[href^="#"] {
