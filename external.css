@@ -1,13 +1,29 @@
-body {
-  color: green;
+*body {
+  color: black;
 }
 
-h2 {
+.website {
   color: #3a4d2;
   margin-left: 20px;
   background-color: coral;
 }
 
-main {
+.mainHeader {
   
+}
+
+.theDivide {
+  
+}
+
+a[href^="#"] {
+  background-color: gold;
+}
+
+a:link {
+  color: #FF0000;
+}
+
+p.intro {
+  background-color: yellow;
 }
