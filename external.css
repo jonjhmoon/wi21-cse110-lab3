@@ -57,6 +57,14 @@ a:link {
   color: #FF0000;
 }
 
+a:hover {
+  color: #FF00FF;
+}
+
+a:active {
+  color: #0000FF;
+}
+
 p.intro {
   font-size: .5em;
   background-color: yellow;
