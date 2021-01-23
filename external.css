@@ -3,6 +3,14 @@
   color: black;
 }
 
+.none {
+  display: none;
+}
+
+.inDisplay {
+  display: inline;
+}
+
 .website {
   color: #3a4d2;
   margin-left: 20px;
