@@ -9,6 +9,7 @@
 
 .inDisplay {
   display: inline;
+  max-width: 50%;
 }
 
 .website {
