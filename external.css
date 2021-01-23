@@ -3,7 +3,7 @@
   color: black;
 }
 
-@media only screen and (aspect-ratio: 1/1) {
+@media (aspect-ratio: 1/1) {
   body {
     background-color: lightblue;
   }
