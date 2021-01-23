@@ -3,6 +3,12 @@
   color: black;
 }
 
+@media (aspect-ratio: 1/1) {
+  body {
+    background-color: lightblue;
+  }
+}
+
 .none {
   display: none;
 }
